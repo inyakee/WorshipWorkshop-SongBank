@@ -1,0 +1,20 @@
+{
+  "id": "hymn-doxology-ken-v1",
+  "title": "Praise God, from Whom All Blessings Flow",
+  "artist": "Thomas Ken",
+  "musical_key": "D",
+  "lyrics": "[Doxology]\nPraise God, from whom all blessings flow;\nPraise Him, all creatures here below;\nPraise Him above, ye heavenly host;\nPraise Father, Son, and Holy Ghost.",
+  "chords": "[Doxology]\n[D]Praise God, from [G]whom all [A]blessings [D]flow;\n[D]Praise Him, all [G]creatures [D]here be[A]low;\n[Bm]Praise Him a[G]bove, ye [D]heavenly [A]host;\n[D]Praise Father, [G]Son, and [A]Holy [D]Ghost.",
+  "arrangement": {
+    "version": 1,
+    "entry_mode": "text",
+    "sections": [
+      {
+        "label": "Doxology",
+        "content": "[D]Praise God, from [G]whom all [A]blessings [D]flow;\n[D]Praise Him, all [G]creatures [D]here be[A]low;\n[Bm]Praise Him a[G]bove, ye [D]heavenly [A]host;\n[D]Praise Father, [G]Son, and [A]Holy [D]Ghost."
+      }
+    ],
+    "legacy_chords": ""
+  },
+  "arrangement_label": "Traditional text · simplified chord chart"
+}

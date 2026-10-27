@@ -1,0 +1,32 @@
+{
+  "id": "hymn-amazing-grace-newton-v1",
+  "title": "Amazing Grace",
+  "artist": "John Newton",
+  "musical_key": "G",
+  "lyrics": "[Verse 1]\nAmazing grace! how sweet the sound,\nThat saved a wretch like me!\nI once was lost, but now am found,\nWas blind, but now I see.\n[Verse 2]\n'Twas grace that taught my heart to fear,\nAnd grace my fears relieved;\nHow precious did that grace appear\nThe hour I first believed!\n[Verse 3]\nThrough many dangers, toils, and snares,\nI have already come;\n'Tis grace hath brought me safe thus far,\nAnd grace will lead me home.\n[Verse 4]\nThe Lord has promised good to me,\nHis word my hope secures;\nHe will my shield and portion be,\nAs long as life endures.",
+  "chords": "[Verse 1]\n[G]Amazing grace! how [C]sweet the [G]sound,\nThat saved a wretch like [D]me!\nI [G]once was lost, but [C]now am [G]found,\nWas [Em]blind, but [D]now I [G]see.\n[Verse 2]\n[G]'Twas grace that taught my [C]heart to [G]fear,\nAnd grace my fears re[D]lieved;\nHow [G]precious did that [C]grace ap[G]pear\nThe [Em]hour I [D]first be[G]lieved!\n[Verse 3]\n[G]Through many dangers, [C]toils, and [G]snares,\nI have already [D]come;\n'Tis [G]grace hath brought me [C]safe thus [G]far,\nAnd [Em]grace will [D]lead me [G]home.\n[Verse 4]\n[G]The Lord has promised [C]good to [G]me,\nHis word my hope se[D]cures;\nHe [G]will my shield and [C]portion [G]be,\nAs [Em]long as [D]life en[G]dures.",
+  "arrangement": {
+    "version": 1,
+    "entry_mode": "text",
+    "sections": [
+      {
+        "label": "Verse 1",
+        "content": "[G]Amazing grace! how [C]sweet the [G]sound,\nThat saved a wretch like [D]me!\nI [G]once was lost, but [C]now am [G]found,\nWas [Em]blind, but [D]now I [G]see."
+      },
+      {
+        "label": "Verse 2",
+        "content": "[G]'Twas grace that taught my [C]heart to [G]fear,\nAnd grace my fears re[D]lieved;\nHow [G]precious did that [C]grace ap[G]pear\nThe [Em]hour I [D]first be[G]lieved!"
+      },
+      {
+        "label": "Verse 3",
+        "content": "[G]Through many dangers, [C]toils, and [G]snares,\nI have already [D]come;\n'Tis [G]grace hath brought me [C]safe thus [G]far,\nAnd [Em]grace will [D]lead me [G]home."
+      },
+      {
+        "label": "Verse 4",
+        "content": "[G]The Lord has promised [C]good to [G]me,\nHis word my hope se[D]cures;\nHe [G]will my shield and [C]portion [G]be,\nAs [Em]long as [D]life en[G]dures."
+      }
+    ],
+    "legacy_chords": ""
+  },
+  "arrangement_label": "Traditional text · simplified chord chart"
+}

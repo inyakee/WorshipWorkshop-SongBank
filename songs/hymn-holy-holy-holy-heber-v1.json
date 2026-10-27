@@ -1,0 +1,32 @@
+{
+  "id": "hymn-holy-holy-holy-heber-v1",
+  "title": "Holy, Holy, Holy!",
+  "artist": "Reginald Heber",
+  "musical_key": "D",
+  "lyrics": "[Verse 1]\nHoly, holy, holy! Lord God Almighty!\nEarly in the morning our song shall rise to Thee.\nHoly, holy, holy! Merciful and mighty!\nGod in three Persons, blessed Trinity!\n[Verse 2]\nHoly, holy, holy! All the saints adore Thee,\nCasting down their golden crowns around the glassy sea;\nCherubim and seraphim falling down before Thee,\nWhich wert, and art, and evermore shalt be.\n[Verse 3]\nHoly, holy, holy! Though the darkness hide Thee,\nThough the eye of sinful man Thy glory may not see;\nOnly Thou art holy; there is none beside Thee,\nPerfect in power, in love and purity.\n[Verse 4]\nHoly, holy, holy! Lord God Almighty!\nAll Thy works shall praise Thy name, in earth, and sky, and sea.\nHoly, holy, holy! Merciful and mighty!\nGod in three Persons, blessed Trinity!",
+  "chords": "[Verse 1]\n[D]Holy, holy, [G]holy! [D]Lord God Al[A]mighty!\n[D]Early in the [G]morning our [A]song shall rise to [D]Thee.\n[D]Holy, holy, [G]holy! [D]Merciful and [A]mighty!\n[Bm]God in three [G]Persons, [A]blessed Trini[D]ty!\n[Verse 2]\n[D]Holy, holy, [G]holy! [D]All the saints a[A]dore Thee,\n[D]Casting down their [G]golden crowns a[A]round the glassy [D]sea;\n[D]Cherubim and [G]seraphim [D]falling down be[A]fore Thee,\n[Bm]Which wert, and [G]art, and [A]evermore shalt [D]be.\n[Verse 3]\n[D]Holy, holy, [G]holy! [D]Though the darkness [A]hide Thee,\n[D]Though the eye of [G]sinful man Thy [A]glory may not [D]see;\n[D]Only Thou art [G]holy; [D]there is none be[A]side Thee,\n[Bm]Perfect in [G]power, in [A]love and puri[D]ty.\n[Verse 4]\n[D]Holy, holy, [G]holy! [D]Lord God Al[A]mighty!\n[D]All Thy works shall [G]praise Thy name, in [A]earth, and sky, and [D]sea.\n[D]Holy, holy, [G]holy! [D]Merciful and [A]mighty!\n[Bm]God in three [G]Persons, [A]blessed Trini[D]ty!",
+  "arrangement": {
+    "version": 1,
+    "entry_mode": "text",
+    "sections": [
+      {
+        "label": "Verse 1",
+        "content": "[D]Holy, holy, [G]holy! [D]Lord God Al[A]mighty!\n[D]Early in the [G]morning our [A]song shall rise to [D]Thee.\n[D]Holy, holy, [G]holy! [D]Merciful and [A]mighty!\n[Bm]God in three [G]Persons, [A]blessed Trini[D]ty!"
+      },
+      {
+        "label": "Verse 2",
+        "content": "[D]Holy, holy, [G]holy! [D]All the saints a[A]dore Thee,\n[D]Casting down their [G]golden crowns a[A]round the glassy [D]sea;\n[D]Cherubim and [G]seraphim [D]falling down be[A]fore Thee,\n[Bm]Which wert, and [G]art, and [A]evermore shalt [D]be."
+      },
+      {
+        "label": "Verse 3",
+        "content": "[D]Holy, holy, [G]holy! [D]Though the darkness [A]hide Thee,\n[D]Though the eye of [G]sinful man Thy [A]glory may not [D]see;\n[D]Only Thou art [G]holy; [D]there is none be[A]side Thee,\n[Bm]Perfect in [G]power, in [A]love and puri[D]ty."
+      },
+      {
+        "label": "Verse 4",
+        "content": "[D]Holy, holy, [G]holy! [D]Lord God Al[A]mighty!\n[D]All Thy works shall [G]praise Thy name, in [A]earth, and sky, and [D]sea.\n[D]Holy, holy, [G]holy! [D]Merciful and [A]mighty!\n[Bm]God in three [G]Persons, [A]blessed Trini[D]ty!"
+      }
+    ],
+    "legacy_chords": ""
+  },
+  "arrangement_label": "Traditional text · simplified chord chart"
+}

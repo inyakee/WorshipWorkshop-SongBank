@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "songs": [
+    {
+      "id": "hymn-amazing-grace-newton-v1",
+      "title": "Amazing Grace",
+      "file": "songs/hymn-amazing-grace-newton-v1.json"
+    },
+    {
+      "id": "hymn-holy-holy-holy-heber-v1",
+      "title": "Holy, Holy, Holy!",
+      "file": "songs/hymn-holy-holy-holy-heber-v1.json"
+    },
+    {
+      "id": "hymn-doxology-ken-v1",
+      "title": "Praise God, from Whom All Blessings Flow",
+      "file": "songs/hymn-doxology-ken-v1.json"
+    }
+  ]
+}
